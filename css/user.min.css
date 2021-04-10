@@ -1,0 +1,13 @@
+
+.head_dev{
+    padding-top: 10px;
+    color: lightslategray;
+    font-size: 25px;
+    font-weight: bold;
+    font-style: oblique;
+    border-style: none none solid;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
