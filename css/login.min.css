@@ -1,6 +1,6 @@
 body{
     width: 100%;
-    height: 450px;
+    height: 460px;
     margin: 0px auto;
     background-image: url("../img/1000879.jpg");
     background-repeat: no-repeat;
@@ -33,7 +33,7 @@ h1{
 
 }
 #login-body{
-    margin: auto;
+    margin:10px  auto;
     padding-left: 0%;
     padding-top: 5%;
     font-size: 20px;
@@ -46,10 +46,8 @@ h1{
     color: firebrick;
     text-align: center;
 }
-#login-body tr{
-    margin: 20px auto;
-    padding: 15px;
-
+#login-body tr td{
+    padding: 5px;
 }
 a{
     text-decoration: none;
@@ -60,7 +58,7 @@ input{
     color: mediumblue;
 }
 .buttons {
-    margin-top: 4%;
+    margin-top: 6%;
 }
 
 .button{
